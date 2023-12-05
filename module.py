@@ -50,7 +50,7 @@ def run_game():
     else:
         print('В этот раз не повезло :( Бой проигран.')
     yes_no = {
-        'Y': True,
+        'y': True,
         'N': False,
     }
     replay = input('Чтобы сыграть ещё раз, введи "y"; '
